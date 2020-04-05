@@ -7,9 +7,13 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "kind-of": "^6.0.3",
+    "minimist": "^1.2.3"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
-  }
+  },
+  "repository": "git@github.com:StefanyVasc/Desafio01_Fase02.git",
+  "author": "StefanyVasc <stefany.vasc.sa@gmail.com>"
 }
